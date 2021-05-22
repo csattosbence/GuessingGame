@@ -1,0 +1,9 @@
+C:\Users\csatt\source\repos\GuessDLL\GuessDLL\bin\Release\netcoreapp3.1\GuessDLL.deps.json
+C:\Users\csatt\source\repos\GuessDLL\GuessDLL\bin\Release\netcoreapp3.1\GuessDLL.dll
+C:\Users\csatt\source\repos\GuessDLL\GuessDLL\bin\Release\netcoreapp3.1\GuessDLL.pdb
+C:\Users\csatt\source\repos\GuessDLL\GuessDLL\obj\Release\netcoreapp3.1\GuessDLL.csprojAssemblyReference.cache
+C:\Users\csatt\source\repos\GuessDLL\GuessDLL\obj\Release\netcoreapp3.1\GuessDLL.AssemblyInfoInputs.cache
+C:\Users\csatt\source\repos\GuessDLL\GuessDLL\obj\Release\netcoreapp3.1\GuessDLL.AssemblyInfo.cs
+C:\Users\csatt\source\repos\GuessDLL\GuessDLL\obj\Release\netcoreapp3.1\GuessDLL.csproj.CoreCompileInputs.cache
+C:\Users\csatt\source\repos\GuessDLL\GuessDLL\obj\Release\netcoreapp3.1\GuessDLL.dll
+C:\Users\csatt\source\repos\GuessDLL\GuessDLL\obj\Release\netcoreapp3.1\GuessDLL.pdb
